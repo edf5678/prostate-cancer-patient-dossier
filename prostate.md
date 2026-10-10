@@ -91,7 +91,7 @@ PRIMARY · nodes · bone · other findings with SUV · reference organ values ·
 
 ---
 
-## 3. Questions worth asking (pick your top 3 for each visit)
+## 3. Questions some patients found useful (use any, none, or your own)
 1. What is the gland volume, and which PSA did you use for density?
 2. What is the % pattern 4 in each positive core? Any cribriform or intraductal pattern?
 3. Were systematic cores taken as well as targeted ones? Did any positive core come from a zone the MRI didn't show?
