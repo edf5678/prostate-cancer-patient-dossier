@@ -2,7 +2,8 @@
 
 Reference cards, report templates and question lists for a patient dossier about **localized prostate cancer**.
 Every card names its source (PMID). Sources last checked on PubMed in **October 2026**.
-This is reading support, **not medical advice**: thresholds change, centres differ, decisions belong to the clinicians.
+These are notes to start from, not instructions: thresholds change, centres differ, and every patient will ask
+their own questions. **Not medical advice**; decisions belong to the patient and the clinicians.
 Guidelines (NCCN, EAU, AUA/ASTRO) are summarised in our own words and linked; their tables are not reproduced.
 
 ---
